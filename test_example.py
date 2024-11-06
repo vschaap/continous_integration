@@ -1,4 +1,4 @@
-from example import add, substract
+from example import add, subtract
 
 def test_add():
     assert add(3, 4) == 7
